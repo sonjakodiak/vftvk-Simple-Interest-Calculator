@@ -1,4 +1,4 @@
-/* I'm sorry. I did a lot of trying on this through jsfiddle, and I couldn't get it to work at all. I am really confused between:
+/* I'm sorry. I spent hours on this through jsfiddle, and I couldn't get it to work at all. I am really confused between:
 variables, id's, function names, function results, and invoking functions. No matter what I did, I could not get the simplest item to show up for the
 onclick event.
 More study and practice needed!*/
