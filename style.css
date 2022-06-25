@@ -1,4 +1,9 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black;font-family:arial;color:white}
 
+h1{color:grey;font-family:verdana}
 
+/*The given size of 300 px did not fit the title in one line as in the sample*/
+.maindiv{ background-color:white; color:black; width:500px; padding:20px; border-radius:25px;}
+
+th{text-align:left}
+label{font-family:arial; font-weight:400}
